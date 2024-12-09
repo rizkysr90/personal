@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Hi, I'm Rizki — A Software Engineer"
+  title: "Hi, I'm Rizki Susilo Ramadhan — A Software Engineer"
   content: "who combines deep backend expertise with broad technical curiosity"
   image: "/images/banner.png"
   button:
